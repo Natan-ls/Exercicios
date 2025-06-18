@@ -22,7 +22,10 @@ Este repositório tem como objetivo organizar e compartilhar as práticas realiz
 
 ```bash
 ├── edI/
-│   └── introducao-c/
+│   ├── introducao-c/
+│   ├── string/
+│   ├── structs_funcoes/
+│   └── vetores/
 ├── edII/
 │   ├── arvore_avl/
 │   ├── generic_list/
